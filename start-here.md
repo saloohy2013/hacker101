@@ -2,9 +2,9 @@
 layout: page
 title: Getting Started
 sidebar:
-  - title: Report Writing, Communication Tips, and Community Guidelines
+  - title: Hacked By saloohy2013
     links:
-      - text: "Understanding HackerOne's Code of Conduct"
+      - text: "Hacked by saloohy2013"
         url: /resources/articles/code_of_conduct
       - text: "How to Write a Good Report and Use the CVSS Calculator"
         url: /resources/articles/writing_a_report_and_cvss
